@@ -16,7 +16,7 @@
 
 4. Challenge 4:
   - Answer: c
-  - Explanation: The output of the code will be { num: 90 } because both variables are the same because they reference the same object (that is a non-primitive data type).
+  - Explanation: The output of the code will be { num: 90 }, both variables are the same because they reference the same object (that is a non-primitive data type).
 
 
 5. Bonus - Challenge 5:
